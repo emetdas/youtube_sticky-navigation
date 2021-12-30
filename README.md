@@ -6,7 +6,6 @@
 
 [navigation-bar-source-code](https://github.com/emetdas/youtube_Navigation_project)
 
-
 # Sticky Navigation Bar Code Snipets 🔰🔰🔰
 
 ## HTML
